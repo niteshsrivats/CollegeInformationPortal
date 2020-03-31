@@ -1,0 +1,6 @@
+[submodule "college_information_portal"]
+	path = college_information_portal
+	url = ./college_information_portal/
+[submodule "test"]
+	path = test
+	url = ./test/
